@@ -1,31 +1,78 @@
-<h1>Hi 👋, I'm Kunj</h1>
-<p>A passionate Python developer from India </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/kunjjarsaniya" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/kunjjarsaniya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/kunjjarsaniya" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunjjarsaniya&show_icons=true&locale=en" alt="kunjjarsaniya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunjjarsaniya&" alt="kunjjarsaniya" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kunjjarsaniya&show_icons=true&locale=en&layout=compact" alt="kunjjarsaniya" /></p>
+# Hi there, I'm kunjjarsaniya 👋
+
+> Building delightful, reliable software — one thoughtful line of code at a time.
+
+[![Website](https://img.shields.io/badge/website-portfolio-blue)](https://kunjjarsaniya.vercel.app) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue?logo=linkedin)](www.linkedin.com/in/kunj-jarsaniya07) 
+[![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?logo=twitter)](https://x.com/Kunjjpatell)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjjarsaniya&layout=compact&theme=radical)](https://github.com/kunjjarsaniya)
+
+---
+
+About
+-----
+I’m a passionate software developer who loves solving real-world problems through clean, maintainable code and great product design. I enjoy working across the full stack, improving developer experience, and contributing to open-source.
+
+What I do
+---------
+- Build scalable web applications and APIs with a focus on performance and developer ergonomics.
+- Design thoughtful user experiences and ship features end-to-end.
+- Mentor fellow engineers, run code reviews, and advocate for engineering best practices.
+
+Core strengths
+--------------
+- Problem solving & system design
+- Clean, testable code & architecture
+- Collaboration & mentorship
+- Shipping reliable products on time
+
+Technologies & Tools
+--------------------
+- Languages: JavaScript/TypeScript, Python
+- Web: React, Next.js, Node.js, Express
+- Data & Infra: MongoDB, PostgreSQL, Redis, Docker, Kubernetes
+- Testing & Quality: Jest, React Testing Library, ESLint, Prettier
+- Cloud & CI/CD: AWS / GCP, GitHub Actions
+
+Featured Projects
+-----------------
+- Docly-Cli — [github.com/KunjjX/Docly](https://github.com/KunjjX/Docly)  
+  Docly – an AI‑powered CLI that automatically generates comprehensive, up‑to‑date documentation for any project.
+
+- RankUp- AI-Learning-Assistant — [github.com/kunjjarsaniya/Ai-Learning-Assistant-APP](https://github.com/kunjjarsaniya/Ai-Learning-Assistant-APP)  
+  An intelligent learning companion that transforms your study materials into interactive flashcards, quizzes, and provides AI-powered explanations to enhance your learning experience.
+
+- Mastrji — [github.com/kunjjarsaniya/Mastrji-Final-Year-Project](https://github.com/kunjjarsaniya/Mastrji-Final-Year-Project)  
+  Masterji is a modern, full-stack Learning Management System (LMS) built with cutting-edge web technologies. It provides a comprehensive platform for creating, managing, and delivering online courses with advanced features like drag-and-drop course structuring, rich text editing, and secure file management.
+
+Open Source & Community
+-----------------------
+I contribute to open source and enjoy collaborating on tools that make developers' lives easier. If you'd like to work together, check my repos and open issues/PRs.
+
+GitHub Stats
+------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunjjarsaniya&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kunjjarsaniya&show_icons=true&theme=radical)
+
+Get in touch
+------------
+- Email: kunjjarsaniya07@gmail.com
+- Website: https://kunjjarsaniya.vercel.app
+- LinkedIn: www.linkedin.com/in/kunj-jarsaniya07
+- Twitter: https://x.com/Kunjjpatell
+
+Hire me / Work with me
+----------------------
+I’m open to new opportunities — contract, freelance, or full-time. If you have an interesting project or role, let's chat.
+
+How you can help
+----------------
+- Star and fork projects you find useful
+- Open issues with concrete reproduction steps
+- Send a PR with improvements or ideas
+
+Footer
+------
+Thanks for stopping by — if you like what you see, follow me for updates. 🚀
+
+---
