@@ -2,7 +2,7 @@
 
 ### Full Stack Software Developer | MERN & NestJS | AI Integrations
 
-> *Building delightful, reliable software — one thoughtful line of code at a time.*
+> *Building delightful, reliable software - one thoughtful line of code at a time.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://kunjjarsaniya.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunj-jarsaniya07)
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full stack developer working on production-grade web and mobile apps with **React, Node.js, NestJS, and MongoDB**. Currently building client products at **Urlwebwala** — everything from admin panels and backend APIs to React Native apps and AI-powered features. I also spent time deep in ERP systems, building on **Frappe/ERPNext with MariaDB**. Winner of **NU-Tech 2026 Hackathon** and certified **Job-Ready Full Stack Developer** (Sheryians Coding School).
+I'm a full stack developer working on production-grade web and mobile apps with **React, Node.js, NestJS, and MongoDB**. Currently building client products at **Urlwebwala** - everything from admin panels and backend APIs to React Native apps and AI-powered features. I also spent time deep in ERP systems, building on **Frappe/ERPNext with MariaDB**. Winner of **NU-Tech 2026 Hackathon** and certified **Job-Ready Full Stack Developer** (Sheryians Coding School).
 
 * **Core Focus**: Scalable web apps, real-time systems, REST API design, AI integrations
 * **Currently**: MERN Stack Developer @ Urlwebwala · B.E. Computer Engineering (in progress) @ KIRC
@@ -23,10 +23,10 @@ I'm a full stack developer working on production-grade web and mobile apps with 
 
 ## 💼 Experience
 
-**MERN Stack Developer** — Urlwebwala *(May 2026 – Present)*
+**MERN Stack Developer** - Urlwebwala *(May 2026 - Present)*
 Architected a complete digital ecosystem (website, admin panel, backend APIs, React Native app) for Saffron Surveyors; built an AI Hair Test System using VLMs for Hisgro; developed backend + admin panel with dynamic data sync for AntricoreTech; built automation workflows for KashthKala.
 
-**ERP Application Developer Intern** — Matiyas Solutions LLP *(Mar 2026 – Apr 2026)*
+**ERP Application Developer Intern** - Matiyas Solutions LLP *(Mar 2026 - Apr 2026)*
 Built and customized ERPNext applications (Python/Frappe) with DocTypes and automated workflows, designed relational data models in MariaDB, developed REST APIs/webhooks/background jobs, configured RBAC, and deployed via Docker.
 
 ---
@@ -111,19 +111,19 @@ Built and customized ERPNext applications (Python/Frappe) with DocTypes and auto
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MitraX](https://github.com/kunjjarsaniya)** | Production-ready, end-to-end encrypted communication platform — real-time messaging, voice/video calls, smart circles, event management, Stripe + UPI payments. ~50,000+ LOC. | React 19, NestJS, MongoDB, Redis, WebRTC, Docker |
+| **[MitraX](https://github.com/kunjjarsaniya)** | Production-ready, end-to-end encrypted communication platform - real-time messaging, voice/video calls, smart circles, event management, Stripe + UPI payments. ~50,000+ LOC. | React 19, NestJS, MongoDB, Redis, WebRTC, Docker |
 | **[Learnix LMS](https://github.com/kunjjarsaniya/Mastrji-Final-Year-Project)** | Full-stack LMS with 95%+ Lighthouse score, drag-and-drop course builder, real-time progress tracking, Stripe payments, and AWS S3 presigned uploads (99% reduction in unauthorized access attempts). | Next.js 14, TypeScript, PostgreSQL, Prisma, AWS S3, Stripe |
 | **[RankUp AI](https://github.com/kunjjarsaniya/Ai-Learning-Assistant-APP)** | AI-powered PWA that turns uploaded PDFs/notes into flashcards, quizzes, and a document-aware chat interface, with spaced repetition and offline mode. | React 19, Node.js, MongoDB, Gemini API |
 | **[Docly CLI](https://github.com/KunjjX/Docly)** | Published npm package that auto-generates SRS documents, architecture diagrams, API docs, and deployment guides for any codebase using AI. | Node.js, Gemini AI, npm |
-| **AlertWise** | Disaster-response education platform built in 24 hours at NU-Tech 2026 Hackathon — AI-driven emergency training content and real-time alerts. 🏆 Hackathon Winner | Node.js, AI Integration |
+| **AlertWise** | Disaster-response education platform built in 24 hours at NU-Tech 2026 Hackathon - AI-driven emergency training content and real-time alerts. 🏆 Hackathon Winner | Node.js, AI Integration |
 | **ZeroAnon** | Anonymous-yet-verified communication platform enabling secure identity-protected interactions without compromising accountability. | React, Node.js |
 
 ---
 
 ## 🏆 Credentials
 
-* 🥇 **NU-Tech 2026 Hackathon Winner** — built AlertWise in 24 hours
-* ✅ **Job-Ready Full Stack Developer** — certified by Sheryians Coding School
+* 🥇 **NU-Tech 2026 Hackathon Winner** - built AlertWise in 24 hours
+* ✅ **Job-Ready Full Stack Developer** - certified by Sheryians Coding School
 
 ---
 
